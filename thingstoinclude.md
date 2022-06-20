@@ -1,0 +1,1 @@
+You can use Sequlize or PG Or POOL for connecting to your database
